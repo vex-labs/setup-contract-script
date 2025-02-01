@@ -1,0 +1,162 @@
+[
+{
+    "game": "counter-strike-2",
+    "team_1": "Natus_Vincere",
+    "team_2": "Fnatic",
+    "in_odds_1": 1.17,
+    "in_odds_2": 4.5,
+    "date": "01/03/2025"
+},
+{
+    "game": "counter-strike-2",
+    "team_1": "Faze",
+    "team_2": "Cloud9",
+    "in_odds_1": 1.35,
+    "in_odds_2": 3.0,
+    "date": "03/03/2025"
+},
+{
+    "game": "counter-strike-2",
+    "team_1": "Team_Spirit",
+    "team_2": "B8",
+    "in_odds_1": 1.3,
+    "in_odds_2": 3.3,
+    "date": "05/03/2025"
+},
+{
+    "game": "counter-strike-2",
+    "team_1": "Astralis",
+    "team_2": "9_Pandas",
+    "in_odds_1": 1.52,
+    "in_odds_2": 2.4,
+    "date": "07/03/2025"
+},
+{
+    "game": "counter-strike-2",
+    "team_1": "Natus_Vincere",
+    "team_2": "Cloud9",
+    "in_odds_1": 1.45,
+    "in_odds_2": 2.7,
+    "date": "09/03/2025"
+},
+{
+    "game": "counter-strike-2",
+    "team_1": "Faze",
+    "team_2": "9_Pandas",
+    "in_odds_1": 1.25,
+    "in_odds_2": 3.8,
+    "date": "11/03/2025"
+},
+{
+    "game": "counter-strike-2",
+    "team_1": "Team_Spirit",
+    "team_2": "Astralis",
+    "in_odds_1": 1.95,
+    "in_odds_2": 1.85,
+    "date": "12/03/2025"
+},
+{
+    "game": "overwatch-2",
+    "team_1": "Team_Falcons",
+    "team_2": "Twisted_Minds",
+    "in_odds_1": 1.1,
+    "in_odds_2": 5.8,
+    "date": "13/03/2025"
+},
+{
+    "game": "overwatch-2",
+    "team_1": "SSG",
+    "team_2": "NTMR",
+    "in_odds_1": 1.28,
+    "in_odds_2": 3.3,
+    "date": "15/03/2025"
+},
+{
+    "game": "overwatch-2",
+    "team_1": "Crazy_Raccoon",
+    "team_2": "NRG_Shock",
+    "in_odds_1": 1.06,
+    "in_odds_2": 7.0,
+    "date": "17/03/2025"
+},
+{
+    "game": "overwatch-2",
+    "team_1": "Toronto_Defiant",
+    "team_2": "ENCE",
+    "in_odds_1": 1.15,
+    "in_odds_2": 4.8,
+    "date": "19/03/2025"
+},
+{
+    "game": "overwatch-2",
+    "team_1": "Team_Falcons",
+    "team_2": "NRG_Shock",
+    "in_odds_1": 1.85,
+    "in_odds_2": 1.95,
+    "date": "21/03/2025"
+},
+{
+    "game": "overwatch-2",
+    "team_1": "SSG",
+    "team_2": "ENCE",
+    "in_odds_1": 2.1,
+    "in_odds_2": 1.75,
+    "date": "23/03/2025"
+},
+{
+    "game": "valorant",
+    "team_1": "KRÜ_BLAZE",
+    "team_2": "ZETA_DIVISION",
+    "in_odds_1": 1.6,
+    "in_odds_2": 2.4,
+    "date": "25/03/2025"
+},
+{
+    "game": "valorant",
+    "team_1": "FlyQuest_RED",
+    "team_2": "Xipto_Esports",
+    "in_odds_1": 1.9,
+    "in_odds_2": 1.95,
+    "date": "26/03/2025"
+},
+{
+    "game": "valorant",
+    "team_1": "G2_Gozen",
+    "team_2": "Shopify_Rebellion",
+    "in_odds_1": 1.4,
+    "in_odds_2": 2.8,
+    "date": "27/03/2025"
+},
+{
+    "game": "valorant",
+    "team_1": "KRÜ_BLAZE",
+    "team_2": "Shopify_Rebellion",
+    "in_odds_1": 1.75,
+    "in_odds_2": 2.1,
+    "date": "28/03/2025"
+},
+{
+    "game": "valorant",
+    "team_1": "G2_Gozen",
+    "team_2": "ZETA_DIVISION",
+    "in_odds_1": 1.3,
+    "in_odds_2": 3.4,
+    "date": "29/03/2025"
+},
+{
+    "game": "valorant",
+    "team_1": "FlyQuest_RED",
+    "team_2": "Shopify_Rebellion",
+    "in_odds_1": 2.2,
+    "in_odds_2": 1.65,
+    "date": "30/03/2025"
+},
+{
+    "game": "valorant",
+    "team_1": "G2_Gozen",
+    "team_2": "Xipto_Esports",
+    "in_odds_1": 1.55,
+    "in_odds_2": 2.45,
+    "date": "31/03/2025"
+}
+]
